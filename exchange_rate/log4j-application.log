@@ -1,0 +1,9 @@
+2024-06-18 13:36:36 DEBUG Example:15 - Hello this is a debug message
+2024-06-18 13:36:36 INFO  Example:16 - Hello this is an info message
+2024-06-18 13:38:23 DEBUG Example:14 - Hello this is a debug message
+2024-06-18 13:38:23 INFO  Example:15 - Hello this is an info message
+2024-06-18 13:40:13 DEBUG Example:14 - Hello this is a debug message
+2024-06-18 13:40:13 INFO  Example:15 - Hello this is an info message
+2024-06-18 13:48:15 INFO  Main:124 - Exchange rates fetched successfully from NBP
+2024-06-18 13:48:19 INFO  Main:124 - Exchange rates fetched successfully from ExchangeRate API
+2024-06-18 13:48:24 INFO  Main:124 - Exchange rates fetched successfully from Open Exchange Rates

@@ -1,0 +1,5 @@
+[main] DEBUG exchange_rate.Example  - Hello this is a debug message
+  [main] INFO  exchange_rate.Example  - Hello this is an info message
+  [main] DEBUG exchange_rate.Example  - Hello this is a debug message
+  [main] INFO  exchange_rate.Example  - Hello this is an info message
+  
